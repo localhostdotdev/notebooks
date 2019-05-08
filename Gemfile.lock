@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/domitry/nyaplot
+  revision: 0b21fd03b64ee162339e29f2e2a1ada4b2d60960
+  specs:
+    nyaplot (0.1.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -55,6 +61,7 @@ DEPENDENCIES
   httparty
   iruby
   nokogiri
+  nyaplot!
 
 BUNDLED WITH
    2.0.1
